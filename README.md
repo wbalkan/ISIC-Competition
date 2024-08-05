@@ -1,6 +1,6 @@
 # ISIC Kaggle Competition Github
 
-This repository contains the Kaggle notebooks used for my submission in the (ISIC 2024 Kaggle Competition)[https://www.kaggle.com/competitions/isic-2024-challenge].
+This repository contains the Kaggle notebooks used for my submission in the [ISIC 2024 Kaggle Competition](https://www.kaggle.com/competitions/isic-2024-challenge).
 
 ## Dataset
 The provided dataset consists of labeled images of skin lesions, along with additional metadata. This dataset contains 401,059 images, with 400,666 negative (benign) samples and 393 positive (malignant) samples.
